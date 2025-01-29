@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Store Data Analysis",
+    "desc": "In this project, we performed store data analysis using Power BI to create interactive dashboards and gain business insights. ",
+    "image": "PRO",
+    "category": "machinelearning",
+    "links": {
+      "view": "https://mavenanalytics.io/project/25895",
+      "code": ""
+    }
+  },
+
+  {
+    "name": "E-commerece-Website-with-price-predictor",
+    "desc": "Built an e-commerce website with a price predictor using Python, HTML, CSS, and machine learning for dynamic, interactive price prediction.",
+    "image": "WEB2",
+    "category": "website",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Rashiqur/Cse-299-E-commerece-Website-with-price-predictor"
+    }
+  },
+
+  {
+    "name": "Sales Dashboard",
+    "desc": "In this project, we performed store data analysis using Power BI to create interactive dashboards and gain business insights. ",
+    "image": "CBSH",
+    "category": "machinelearning",
+    "links": {
+      "view": "https://mavenanalytics.io/project/24949",
+      "code": ""
+    }
+  },
+
+  {
+    "name": "Detective-Agency",
+    "desc": "Developed a detective-themed e-commerce website using Hack, PHP, HTML, and CSS, offering detective profiles and a seamless hiring interface.",
+    "image": "OFBS",
+    "category": "website",
+    "links": {
+      "view": "",
+      "code": "https://github.com/Rashiqur/Cse-311-Detective-Agency"
+    }
+  }
+]
